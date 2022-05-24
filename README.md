@@ -1,1 +1,1 @@
-# ergocd
+# Argocd
